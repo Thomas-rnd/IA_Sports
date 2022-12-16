@@ -28,6 +28,11 @@ To install the requirements using [conda](http://conda.pydata.org), run the foll
 ```
 $ conda install --file requirements.txt
 ```
+If you want to check the list of installed packages in a conda environment, run the following at the command-line:
+
+```
+$ conda list
+```
 
 To create a stand-alone environment named ``IA_Sports`` with Python 3.9.13 and all the required package versions, run the following:
 
