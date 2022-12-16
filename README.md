@@ -2,15 +2,11 @@
 
 This repository contains the entire [IA Sports](https://github.com/Thomas-rnd/IA_Sports), in the form of Jupyter notebooks.
 
-![cover image](Notebooks/Images/IA_Sports.png)
+![cover image](Notebooks/Images/Logo.png)
 
 ## How to use this Book
 
-- Read the book in its entirety online at https://github.com/Thomas-rnd/IA_Sports
-
 - Run the code using the Jupyter notebooks available in this repository's [Notebooks](Notebooks) directory.
-
-- Launch executable versions of these notebooks using [Google Colab](http://colab.research.google.com): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 
 ## About
 
