@@ -1,6 +1,6 @@
 # IA Sports
 
-This repository contains the entire [IA Sports](http://shop.oreilly.com/product/0636920034919.do), in the form of Jupyter notebooks.
+This repository contains the entire [IA Sports](https://github.com/Thomas-rnd/IA_Sports), in the form of Jupyter notebooks.
 
 ![cover image](Notebooks/Images/IA_Sports.png)
 
