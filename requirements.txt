@@ -6,6 +6,7 @@ scikit-image==0.19.2
 pillow==9.2.0
 matplotlib==3.5.2
 seaborn==0.11.2
+xlrd==2.0.1
 jupyter
 notebook
 line_profiler
