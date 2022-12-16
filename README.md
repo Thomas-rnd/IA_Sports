@@ -2,7 +2,7 @@
 
 This repository contains the entire [IA Sports](https://github.com/Thomas-rnd/IA_Sports), in the form of Jupyter notebooks.
 
-![cover image](Notebooks/Images/Logo.png)
+![cover image](Images/Logo.png)
 
 ## How to use this Book
 
