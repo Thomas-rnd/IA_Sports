@@ -12,7 +12,7 @@ This repository contains the entire [IA Sports](https://github.com/Thomas-rnd/IA
 
 The book was written and tested with Python 3.9.13, though other Python versions should work in nearly all cases.
 
-The book introduces tools to personalize runner's training. Among the tools proposed to assess the athlete’s “muscular fatique” the analysis of heart rate variability (HRV) provides an indirect evaluation of the settings of autonomic control of heart activity. HRV analysis is performed through assessment of time-domain indices, like RMSSD but also in the frequency-domain indices, likes LF/HF.
+The book introduces tools to personalize runner's training. Among the tools proposed to assess the athlete’s “muscular fatigue” the analysis of heart rate variability (HRV) provides an indirect evaluation of the settings of autonomic control of heart activity. HRV analysis is performed through assessment of time-domain indices, like RMSSD but also in the frequency-domain indices, likes LF/HF.
 
 This project was conducted by 4 people at the [ENSC](https://ensc.bordeaux-inp.fr/fr)
 
