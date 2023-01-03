@@ -14,7 +14,7 @@ The book was written and tested with Python 3.9.13, though other Python versions
 
 The book introduces tools to personalize runner's training. Among the tools proposed to assess the athlete’s “muscular fatigue” the analysis of heart rate variability (HRV) provides an indirect evaluation of the settings of autonomic control of heart activity. HRV analysis is performed through assessment of time-domain indices, like RMSSD but also in the frequency-domain indices, likes LF/HF.
 
-This project was conducted by 4 people at the [ENSC](https://ensc.bordeaux-inp.fr/fr)
+This project was conducted at the [ENSC](https://ensc.bordeaux-inp.fr/fr)
 
 We used core libraries essential for working with data in Python: particularly [IPython](http://ipython.org), [NumPy](http://numpy.org), [Pandas](http://pandas.pydata.org), [Matplotlib](http://matplotlib.org), [Scikit-Learn](http://scikit-learn.org), and related packages.
 
